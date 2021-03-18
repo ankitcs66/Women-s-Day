@@ -1,0 +1,187 @@
+body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 3556px;
+	 height: 2000px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 3556px;
+	 height: 2000px;
+	 z-index:1;
+} 
+
+ #Background_0 
+{ 
+	 left: -314px; 
+	 top: -630px; 
+	 position: absolute; 
+	 width: 4799px;
+	 height: 3261px;
+	 z-index:2;
+} 
+
+ #VectorSmartObject 
+{ 
+	 left: -17px; 
+	 top: 429px; 
+	 position: absolute; 
+	 width: 233px;
+	 height: 568px;
+	 z-index:3;
+} 
+
+ #VectorSmartObject_0 
+{ 
+	 left: 1151px; 
+	 top: -61px; 
+	 position: absolute; 
+	 width: 449px;
+	 height: 280px;
+	 z-index:4;
+} 
+
+ #VectorSmartObject_1 
+{ 
+	 left: 2860px; 
+	 top: 846px; 
+	 position: absolute; 
+	 width: 424px;
+	 height: 302px;
+	 z-index:5;
+} 
+
+ #VectorSmartObject_2 
+{ 
+	 left: -105px; 
+	 top: 1110px; 
+	 position: absolute; 
+	 width: 397px;
+	 height: 361px;
+	 z-index:6;
+} 
+
+ #Women39s 
+{ 
+	 left: 774px; 
+	 top: 1023px; 
+	 position: absolute; 
+	 width: 2008px;
+	 height: 979px;
+	 z-index:7;
+} 
+
+ #Web 
+{ 
+	 left: 1339px; 
+	 top: 899px; 
+	 position: absolute; 
+	 width: 878px;
+	 height: 31px;
+	 z-index:8;
+} 
+
+ #BodyText 
+{ 
+	 left: 99px; 
+	 top: 1704px; 
+	 position: absolute; 
+	 width: 741px;
+	 height: 203px;
+	 z-index:9;
+} 
+
+ #Date 
+{ 
+	 left: 2863px; 
+	 top: 105px; 
+	 position: absolute; 
+	 width: 586px;
+	 height: 77px;
+	 z-index:10;
+} 
+
+ #SubTitle 
+{ 
+	 left: 1379px; 
+	 top: 399px; 
+	 position: absolute; 
+	 width: 799px;
+	 height: 67px;
+	 z-index:11;
+} 
+
+ #Title 
+{ 
+	 left: 986px; 
+	 top: 530px; 
+	 position: absolute; 
+	 width: 1582px;
+	 height: 368px;
+	 z-index:12;
+} 
+
+ #Instagram 
+{ 
+	 left: 3397px; 
+	 top: 1847px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 59px;
+	 z-index:13;
+} 
+
+ #pinterest 
+{ 
+	 left: 3301px; 
+	 top: 1847px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 59px;
+	 z-index:14;
+} 
+
+ #Twitter 
+{ 
+	 left: 3214px; 
+	 top: 1847px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 59px;
+	 z-index:15;
+} 
+
+ #facebook 
+{ 
+	 left: 3134px; 
+	 top: 1845px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 59px;
+	 z-index:16;
+} 
+
+ #PlaceyourlogohereDou 
+{ 
+	 left: 99px; 
+	 top: 85px; 
+	 position: absolute; 
+	 width: 441px;
+	 height: 134px;
+	 z-index:17;
+} 
